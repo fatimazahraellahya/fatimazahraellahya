@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fatimazahraellahya
+- 👀 I’m interested in Web Design and FrontEnd Development
+- 🌱 I’m currently learning Figma and NextJS
+- 📫 You can follow me on Twitter [@fatimaellahya](https://twitter.com/fatimaellahya)
